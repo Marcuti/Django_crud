@@ -1,0 +1,5 @@
+![index ft](https://github.com/Marcuti/Django_crud/assets/151375961/ff265506-1e74-450c-b8b2-831862984b49)
+![topicos,ft](https://github.com/Marcuti/Django_crud/assets/151375961/3c6d2ea4-dd60-42c8-8b82-9df1faa0e0ba)
+![register ft](https://github.com/Marcuti/Django_crud/assets/151375961/02e4cfa6-6b42-4b52-b313-2090457fe7c6)
+![login ft](https://github.com/Marcuti/Django_crud/assets/151375961/1ef19391-ae3d-4dda-bb5b-a329022798b8)
+![anotação ft](https://github.com/Marcuti/Django_crud/assets/151375961/9580060e-4757-434f-84fd-51bfa417d9e2)
