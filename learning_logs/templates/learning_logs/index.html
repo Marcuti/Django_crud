@@ -1,0 +1,34 @@
+{% extends "Learning_logs/base.html" %}
+
+{% block header%}
+
+    <div class="jumbotron">
+        <h1>Acompanhe seu aprendizado</h1>
+    </div>
+
+{% endblock header%}
+
+{% block content %}
+
+    {% if user.is_authenticated %}
+
+        <h2>
+            Sempre que voce aprender algo novo sobre algum tópico venha salvar aqui!
+        </h2>   
+
+    {% else %}
+
+        <h2>
+            <a href="{%url 'register' %}">Crie uma conta</a> para utilizar o Learning Log.
+            <a href=""></a>
+        </h2>
+
+        <h2>
+            Sempre que voce aprender algo novo sobre algum tópico venha salvar aqui!
+        </h2>   
+        
+    {% endif %}
+
+{% endblock content %}
+
+    
